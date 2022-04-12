@@ -46,3 +46,9 @@ Port : 443
 Password : "kdlavalink"
 secure: true
 ```
+Hosted by @ [Kinan-MA](https://github.com/Kinan-Ma)
+    Host: Kinan.Music.vsx
+    Port: 443
+    Password: Kinan.Music,
+    secure: true
+```
