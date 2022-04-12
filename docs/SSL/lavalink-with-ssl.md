@@ -46,3 +46,10 @@ Port : 443
 Password : "kdlavalink"
 secure: true
 ```
+Hosted by @ [ErrorDoc404](https://github.com/ErrorDoc404)
+```bash
+    Host: Kinan.Music.vsx
+    Port: 443
+    Password: Kinan.Music,
+    secure: true
+```
